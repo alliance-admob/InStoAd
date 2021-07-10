@@ -1,0 +1,11 @@
+{
+  "admob_app_id": "ca-app-pub-3940256099942544~3347511713",
+  "admob_banner": "ca-app-pub-3940256099942544/6300978111,ca-app-pub-3940256099942544/6300978111,ca-app-pub-3940256099942544/6300978111,ca-app-pub-3940256099942544/6300978111",
+  "admob_inter": "ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712,ca-app-pub-3940256099942544/1033173712",
+  "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+  "is_add_show": 0,
+  "is_livemode": 0,
+  "is_banner_show": 0,
+  "is_interstitial_show": 0,
+  "is_splash_ad_show": 0
+}
