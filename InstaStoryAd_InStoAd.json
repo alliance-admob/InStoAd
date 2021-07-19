@@ -8,5 +8,7 @@
   "is_livemode": 0,
   "is_banner_show": 0,
   "is_interstitial_show": 0,
-  "is_splash_ad_show": 0
+  "is_splash_ad_show": 0,
+  "app_vesion":2,
+  "is_imp":1
 }
