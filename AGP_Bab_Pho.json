@@ -1,0 +1,16 @@
+{
+  "admob_app_id": "5364226953",
+  "admob_banner": "ca-app-pub-1515334893216672/5911021862,ca-app-pub-1515334893216672/5980316387",
+  "admob_inter": "ca-app-pub-1515334893216672/3545724738,ca-app-pub-1515334893216672/9482585307",
+  "admob_app_open": "ca-app-pub-1515334893216672/4494486422",
+  "ad_show_sequence": 1,
+  "is_add_show": 1,
+  "is_livemode": 0,
+  "is_banner_show": 1,
+  "is_interstitial_show": 1,
+  "is_app_open_show": 1,
+  "is_splash_ad_show": 0,
+  "app_vesion":22,
+  "is_imp":0,
+  "update_msg":"Their is new version avilable for download! Do you want to update the latest version"
+}
